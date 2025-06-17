@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/darpai-darp-engine-badge.png)](https://mseep.ai/app/darpai-darp-engine)
+
 # DARPEngine
 The MCP searchengine for DARP.
 
